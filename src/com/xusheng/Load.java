@@ -15,9 +15,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 
 public class Load extends javax.swing.JFrame {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	private JLabel userName;
 	private JLabel userKey;
