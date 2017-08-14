@@ -28,6 +28,7 @@ import javax.swing.WindowConstants;
 * THIS MACHINE, SO JIGLOO OR THIS CODE CANNOT BE USED
 * LEGALLY FOR ANY CORPORATE OR COMMERCIAL PURPOSE.
 */
+@SuppressWarnings("serial")
 public class ZhuCe extends javax.swing.JFrame {
 	private JLabel userName;
 	private JLabel userKey;

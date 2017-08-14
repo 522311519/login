@@ -52,6 +52,7 @@ public class Load extends javax.swing.JFrame {
 			keyField.setColumns(16);
 			load = new JButton("µÇÂ¼");
 			load.addMouseListener(new MouseAdapter() {
+				@SuppressWarnings("unused")
 				public void mouseClicked(MouseEvent e) {
 					boolean flag = false;
 					for (User user1 : user) {
